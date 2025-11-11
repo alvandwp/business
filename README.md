@@ -8,5 +8,5 @@
 
 با تشکر از <a href="https://www.freepik.com/author/denamorado" target="_blank">Denamorado / Freepik</a> برای فایل PSD پروژه.
 
-شما می‌توانید این قالب را در آدرس زیر مشاهده کنید:
+شما می‌توانید این قالب را در این آدرس مشاهده کنید:
 https://alvand1399.github.io/business-theme/
