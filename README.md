@@ -6,7 +6,7 @@
 
 برای آیکون‌ها، از Fontawesome 5 Solid استفاده کردم و برای فونت‌ها، Merriweather و Open Sans انتخاب شده‌اند. همه تصاویر موجود در این پروژه دارای مجوز برای استفاده رایگان هستند و بیشتر آنها از وب‌سایت Unsplash از عکاسان مختلف هستند.
 
-با تشکر از <a href="https://www.freepik.com/denamorado" target="_blank">Denamorado / Freepik</a> برای فایل PSD پروژه.
+با تشکر از <a href="https://www.freepik.com/author/denamorado" target="_blank">Denamorado / Freepik</a> برای فایل PSD پروژه.
 
 شما می‌توانید این قالب را در آدرس زیر مشاهده کنید:
 https://alvand1399.github.io/business-theme/
