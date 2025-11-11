@@ -1,12 +1,12 @@
-# Business Responsive Website Theme
+# قالب وب‌سایت واکنش‌گرای تجاری
 
-It is a website theme with a great responsive layout built with HTML, CSS, and JavaScript for your business. This theme had been tested in the recent version of Chrome, Firefox, Edge, and Opera Browsers (November 2021) with a good result.
+این یک قالب وب‌سایت با طرح‌بندی واکنش‌گرا است که با HTML و CSS و جاوا اسکریپت برای کسب‌وکار ساخته شده است. این قالب در نسخه اخیر مرورگرهای کروم، فایرفاکس، اج و اپرا (نوامبر 2021) آزمایش شده و نتیجه خوبی داشته است.
 
-I've not used any CSS or JS framework in this project. I built it with CSS float property so this theme is more compatible with old browsers versions as well as new ones. I use Normalize.css for compatibility purposes between different browsers types.
+در این پروژه از هیچ فریم‌ورک CSS یا JS استفاده نکرده‌ام. آن را با ویژگی float CSS ساختم، بنابراین این قالب با نسخه‌های قدیمی مرورگرها و همچنین نسخه‌های جدید سازگارتر است. از Normalize.css برای اهداف سازگاری بین انواع مختلف مرورگرها استفاده شده است.
 
-For icons, I used Fontawesome 5 Solid and for fonts, Merriweather and Open Sans had been chosen to use. All of the images in this project have a free-to-use license, and most of them are from the Unsplash free image website from various photographers.
+برای آیکون‌ها، از Fontawesome 5 Solid استفاده کردم و برای فونت‌ها، Merriweather و Open Sans انتخاب شده‌اند. همه تصاویر موجود در این پروژه دارای مجوز برای استفاده رایگان هستند و بیشتر آنها از وب‌سایت Unsplash از عکاسان مختلف هستند.
 
-Thanks to <a href="https://www.freepik.com/denamorado" target="_blank">Denamorado / Freepik</a> for theme .psd file.
+با تشکر از <a href="https://www.freepik.com/denamorado" target="_blank">Denamorado / Freepik</a> برای فایل PSD پروژه.
 
-You can see the theme on:
+شما می‌توانید این قالب را در آدرس زیر مشاهده کنید:
 https://alvand1399.github.io/business-theme/
