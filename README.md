@@ -1,12 +1,9 @@
-# قالب وب‌سایت واکنش‌گرای تجاری
+# Responsive Business Website Template
 
-این یک قالب وب‌سایت با طرح‌بندی واکنش‌گرا است که با HTML و CSS و جاوا اسکریپت برای کسب‌وکار ساخته شده است. این قالب در نسخه اخیر مرورگرهای کروم، فایرفاکس، اج و اپرا (نوامبر 2021) آزمایش شده و نتیجه خوبی داشته است.
+This is a responsive layout website template built with HTML, CSS, and JavaScript for business (companies) for free. This template has been tested on the latest version of Chrome, Firefox, Edge, and Opera browsers (November 2021) and has worked well.
 
-در این پروژه از هیچ فریم‌ورک CSS یا JS استفاده نکرده‌ام. آن را با ویژگی float CSS ساختم، بنابراین این قالب با نسخه‌های قدیمی مرورگرها و همچنین نسخه‌های جدید سازگارتر است. از Normalize.css برای اهداف سازگاری بین انواع مختلف مرورگرها استفاده شده است.
+I have not used any CSS or JS frameworks in this project. I built it with the float CSS property, so this template is more compatible with older versions of browsers as well as new versions. Normalize.css has been used for cross-browser compatibility purposes.
 
-برای آیکون‌ها، از Fontawesome 5 Solid استفاده کردم و برای فونت‌ها، Merriweather و Open Sans انتخاب شده‌اند. همه تصاویر موجود در این پروژه دارای مجوز برای استفاده رایگان و بیشتر آنها از وب‌سایت Unsplash از عکاسان مختلف هستند.
+For icons, I have used Fontawesome 5 Solid, and for fonts, Merriweather and Open Sans have been chosen. All images in this project are licensed for free use and most of them are from the Unsplash website from different photographers.
 
-با تشکر از <a href="https://www.freepik.com/author/denamorado" target="_blank">Denamorado / Freepik</a> برای فایل PSD پروژه.
-
-شما می‌توانید این قالب را در این آدرس مشاهده کنید:
-https://alvandwp.github.io/business
+Thanks to <a href="https://www.freepik.com/author/denamorado" target="_blank">Denamorado / Freepik</a> for the PSD file of the project.
